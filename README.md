@@ -37,5 +37,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:zhouping.h@outlook.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:zhouping.h@outlook.com"><img src="https://img.shields.io/badge/-zhouping.h@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
