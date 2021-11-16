@@ -5,7 +5,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Front end, and Algorithm.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at zhouping.h@outlook.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at confettis.huang@gmail.com! I'll try to respond as soon as I can.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -35,5 +35,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:zhouping.h@outlook.com"><img src="https://img.shields.io/badge/-zhouping.h@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:confettis.huang@gmail.com"><img src="https://img.shields.io/badge/-zhouping.h@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
