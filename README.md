@@ -35,5 +35,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:confettis.huang@gmail.com"><img src="https://img.shields.io/badge/-zhouping.h@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:confettis.huang@gmail.com"><img src="https://img.shields.io/badge/-confettis.huang@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
